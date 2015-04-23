@@ -7,4 +7,4 @@ The script allows the reverse engineering of zoomify tiles. It can be run via co
 
 For more information see:
 
-	python reversezoomify.py
+	python reversezoomify.py --help
